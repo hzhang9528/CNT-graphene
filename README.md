@@ -3,4 +3,5 @@ In this work, a pathfinding algorithm is used to exhaust all possible configurat
 By providing an easy-to-use numerical tool in the form of MATLAB code, the intention is to free material scientists from the tedious preparation of atomic configuration.
 
 If you publish results obtained with our code, please cite our work in your publication.
+
 Zhang, Hao, et al. "An open-source code to generate carbon nanotube/graphene junctions." Computational Materials Science 146 (2018): 143-149.
